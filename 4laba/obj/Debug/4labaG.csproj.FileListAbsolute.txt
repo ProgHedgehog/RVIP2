@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Универ\РВиП\4labaG\4laba\bin\Debug\4laba.exe.config
+C:\Users\User\Desktop\Универ\РВиП\4labaG\4laba\obj\Debug\4laba.exe
+C:\Users\User\Desktop\Универ\РВиП\4labaG\4laba\obj\Debug\4laba.pdb
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\bin\Debug\4laba.exe.config
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\bin\Debug\4laba.exe
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\bin\Debug\4laba.pdb
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\obj\Debug\4labaG.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\obj\Debug\_4laba.Form1.resources
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\obj\Debug\_4laba.Properties.Resources.resources
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\obj\Debug\4labaG.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\obj\Debug\4laba.exe
+C:\Users\User\Desktop\Универ\РВиП\4labaG\2labaRVIP_repo\trunk\4laba\obj\Debug\4laba.pdb
